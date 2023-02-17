@@ -1,0 +1,2 @@
+model_checkpoint_path: "ckpt_0_lbfgs_100.0_100.0_100.0"
+all_model_checkpoint_paths: "ckpt_0_lbfgs_100.0_100.0_100.0"
